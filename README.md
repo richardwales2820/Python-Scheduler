@@ -19,3 +19,5 @@ STA3032 T9:00-10:15 R9:00-10:15
 Where in this example, there are 5 courses, 4 lectures and a lab section denoted by the "L" at the end of the course number
 
 Use military time and the weekday prefixes of M, T, W, R, F
+
+![Schedule Demo](/Scheduler_Demo.png?raw=true "Scheduler Demo")
