@@ -1,6 +1,6 @@
 # Python Scheduler 5000 (Python 2.7)
 
-Reads in a file containing courses and their times and then creates every possible valid schedule
+Reads in a file containing courses and their times and then creates every possible valid schedule using a backtracking, recursive solution.
 At the bottom of the courses.txt file, an integer should be on the last line to indicate the number of classes necessary in the schedule
 
 The file format should resemble the following:
